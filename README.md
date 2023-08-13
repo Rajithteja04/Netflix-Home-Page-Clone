@@ -4,4 +4,4 @@ This project is a Netflix clone homepage built using HTML, CSS, and JavaScript. 
 
 ## Demo
 
-You can view a live demo of the Netflix Clone Homepage [here](https://your-demo-link.com).
+You can view a live demo of the Netflix Clone Homepage [here](https://rajithteja04.github.io/Netflix-Home-Page-Clone/).
